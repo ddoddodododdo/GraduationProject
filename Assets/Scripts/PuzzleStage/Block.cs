@@ -17,7 +17,9 @@ public class Block : MonoBehaviour
     Rigidbody2D rigid;
     Animator anim;
     BoxCollider2D box;
-
+    /// <summary>
+    /// /////////sdsadas
+    /// </summary>
     void Awake() 
     {
         rigid = GetComponent<Rigidbody2D>();
